@@ -6,7 +6,7 @@ Trong đó:
 	giaTri: là giá trị của biến mà bạn muốn gán 
 VD: count = 0
 '''
-
+# dasdsadsadasd
 '''
 Các kiểu dữ liệu cơ bản trong python: string, integer, float, list, tuple, dictionnary.
 '''
